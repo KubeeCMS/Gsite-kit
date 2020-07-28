@@ -2,7 +2,7 @@
 /**
  * Plugin main file.
  *
- * @package   KubeeCMS\Gsite_Kit
+ * @package   KubeeCMS\Gsite-Kit
  * @copyright 2020 Kubee
  * @license   https://www.apache.org/licenses/LICENSE-2.0 Apache License 2.0
  * @link      https://github.com/KubeeCMS/Gsite-kit/
